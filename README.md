@@ -1,2 +1,2 @@
-# issues
+# Issues
 Create bugs here
